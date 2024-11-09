@@ -50,4 +50,12 @@ public class AbstractClass {
 	}
 }
 	
+
+
+
+
+#Sample output
+#I'm Rectangle,Number of Sides = 4
+#I'm Triangle,Number of Sides = 3
+#I'm Hexagon,Number of Sides = 6
 	
